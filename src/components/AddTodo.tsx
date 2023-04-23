@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { IItem } from "../types/todos";
-
+//  main
 interface IProps {
   onAddTodo: (todo: IItem) => void;
 }
